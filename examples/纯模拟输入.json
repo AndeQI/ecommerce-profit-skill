@@ -1,0 +1,12 @@
+{
+  "scenario": "演示商品（纯模拟）",
+  "seller_revenue": "34.90",
+  "costs": [
+    {"name": "采购", "amount": "18"},
+    {"name": "包装", "amount": "1"},
+    {"name": "运费", "amount": "4"},
+    {"name": "平台固定服务费", "amount": "1.20"},
+    {"name": "本情景推广费", "amount": "5"}
+  ],
+  "percentage_fees": []
+}
